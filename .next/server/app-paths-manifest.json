@@ -1,8 +1,0 @@
-{
-  "/_not-found/page": "app/_not-found/page.js",
-  "/agents/anime/page": "app/agents/anime/page.js",
-  "/agents/page": "app/agents/page.js",
-  "/page": "app/page.js",
-  "/api/anime/route": "app/api/anime/route.js",
-  "/api/router/route": "app/api/router/route.js"
-}
